@@ -74,4 +74,13 @@
   .project-description{
     padding: 120px 60px;
   }
-  
+  .navbar{
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .header{
+    cursor: pointer;
+    list-style: none;
+    
+  }
